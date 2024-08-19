@@ -1,0 +1,19 @@
+{
+  "name": "authlogin",
+  "version": "1.0.0",
+  "description": "Auth Login System",
+  "main": "index.js",
+  "scripts": {
+    "test": "run  dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mrsidyot77/AuthLogin/branches"
+  },
+  "keywords": [
+    "fullstack",
+    "raza"
+  ],
+  "author": "M Raza",
+  "license": "ISC"
+}
